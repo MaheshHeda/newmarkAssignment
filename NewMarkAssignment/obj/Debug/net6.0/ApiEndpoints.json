@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "NewMarkAssignment.Controllers.PropertiesController",
+    "Method": "GetProperties",
+    "RelativePath": "Properties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
