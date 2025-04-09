@@ -7,3 +7,10 @@
 /obj
 /*.user
 /*.suo
+/NewMarkAssignment/bin/Debug/net6.0
+/NewMarkAssignment/obj/Debug/net6.0
+/NewMarkAssignment/obj/NewMarkAssignment.csproj.nuget.dgspec.json
+/NewMarkAssignment/obj/NewMarkAssignment.csproj.nuget.g.props
+/NewMarkAssignment/obj/NewMarkAssignment.csproj.nuget.g.targets
+/NewMarkAssignment/obj/project.assets.json
+/NewMarkAssignment/obj/project.nuget.cache
